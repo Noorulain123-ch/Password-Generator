@@ -29,7 +29,7 @@ A simple and interactive **Password Generator** built using HTML, CSS, and JavaS
 
 ##  Live Demo
 
-https://your-username.github.io/passwordGenerator
+https://your-username.github.io/passwordGenerator.html
 
 
 
